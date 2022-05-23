@@ -1,0 +1,68 @@
+.navbar{
+display: flex;
+justify-content: space-around;
+background-color: #414C66;
+height: 150px;
+max-width: 100%;
+position:  sticky !important ;
+top: 0px;
+
+}
+.logo{
+height: 100px;
+width: 100px;
+margin-top: 40px;
+
+
+}
+ul{
+display: flex;
+justify-content: space-between;
+list-style: none;
+margin-left: 5px;
+margin-top: 80px;
+margin-right: 30px;
+}
+li{
+color: white;
+text-decoration: none;
+margin-left: 35px;
+font-size: 16px;
+    line-height: 19px;
+font-family: Ftpolar,sans-serif;
+cursor: pointer;
+font-weight: 400;
+}
+svg{
+    margin-left: 12px;
+margin-top: 3px;
+}
+li:hover svg{
+   transform: rotate(180deg);
+transition-duration: 1s;   
+}
+
+.drop{
+    position: absolute;
+   background-color: white;
+   margin-top: 0px;
+   border-radius: 8%;
+   display: flex;
+
+}
+.drop ul{
+    display: flex;
+    flex-direction: column;
+padding-top: 0%;
+
+}
+.drop li{
+    color: gray;
+margin-bottom: 15px;
+text-decoration: underline;
+
+}
+.dropimg1{
+    height: 400px;
+    width: 300px;
+}
