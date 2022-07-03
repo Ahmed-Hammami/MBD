@@ -26,8 +26,12 @@ export default function Client() {
     <div className='client22'>
 
    
-   {show? <><p>Les compétences de M&BD ne font aucun doute, tout est à sa place, dans un cadre, avec des délais et des budgets afin de délivrer le meilleur rendu possible.</p>
+   {show? <>
+    <img   src='/fff.jpeg' alt='555'></img>   
+   <p>Les compétences de M&BD ne font aucun doute, tout est à sa place, dans un cadre, avec des délais et des budgets afin de délivrer le meilleur rendu possible.</p>
     <span>Associé dans une entreprise de gestion de fortune</span></>: <>
+    <img   src='/ffff.jpeg' alt='555'></img>   
+
 <p>D’une grande maturité, M&BD est capable de gérer des projets complexes, les démarquant franchement de leurs concurrents.</p>
 <span>CEO d’une société financière</span>
 

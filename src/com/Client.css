@@ -1,7 +1,11 @@
 .client{
-    height: 600px;
+    height: 700px;
     background-color: #414C66;
 width: 100%;
+}
+.client img{
+    width: 60%;
+    height: 200px;
 }
 .client1 h1{
     font-weight: 200;
@@ -13,7 +17,7 @@ width: 100%;
 .client2{
     display: flex;
     justify-content: space-between;
-    margin-top: 180px;
+    margin-top: 100px;
 }
 .client21{
     margin-left: 4%;

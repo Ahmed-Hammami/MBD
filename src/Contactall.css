@@ -1,0 +1,44 @@
+.C2{
+    display: flex;
+    margin-top: 100px;
+    flex-direction: column;
+}
+.C2 a{
+margin-top: 10px;
+font-size: larger;
+}
+.maps1 h1{
+    color: gray;
+}
+a{
+    margin-top: 10px;
+    font-size: larger;
+    }
+    p{
+        color: gray;
+    }
+
+.maps{
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    margin-bottom: 0px;
+}    
+.maps1{ margin-left: 8%;}
+.maps2{ margin-right: 8%;
+}
+.cm h1{
+    color: gray;
+
+}
+.cm{
+display: flex;
+margin-top: 100px;
+}
+.cm img {
+height: 300px;
+width: 300px;
+}
+.cm1{
+    margin-left: 150px;
+}
